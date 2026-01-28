@@ -1,0 +1,8 @@
+[
+  { "file": "data/social_2025.csv", "name": "사회복지학개론 2025" },
+  { "file": "data/social_2024.csv", "name": "사회복지학개론 2024" },
+  { "file": "data/social_2023.csv", "name": "사회복지학개론 2023" },
+  { "file": "data/social_2022.csv", "name": "사회복지학개론 2022" },
+  { "file": "data/social_2021.csv", "name": "사회복지학개론 2021" },
+  { "file": "data/social_2020.csv", "name": "사회복지학개론 2020" }
+]

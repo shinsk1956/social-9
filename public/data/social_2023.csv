@@ -1,0 +1,65 @@
+﻿기출년도,과목,문제,보기1,보기2,보기3,보기4,보기5,정답,해설,이미지,이미지정렬,검증됨
+"2023","사회복지학개론","1. 사회복지실천에서 사정(assessment)에 대한 설명으로 옳지 않은 것은?","1. 환경 속의 인간이라는 맥락에 기초한다.","2. 사회복지 개입의 성과를 확인할 수 있다.","3. 사회복지사와 클라이언트의 상호협력적 활동이다.","4. 클라이언트의 욕구와 문제를 이해하는 과정이다.","","2","사회복지 개입의 성과를 확인하는 것은 '평가' 단계에 해당합니다. 사정은 자료를 수집하고 분석하여 클라이언트의 문제와 욕구를 파악하는 단계입니다.","","center","true"
+"2023","사회복지학개론","2. 양적조사방법과 비교할 때 질적조사방법의 특징으로 옳지 않은 것은?","1. 주관성","2. 귀납적 방법","3. 일반화의 한계","4. 연구절차의 경직성","","4","질적조사방법은 연구 절차가 유연하다는 특징이 있습니다. 연구절차의 경직성은 미리 정해진 절차를 따르는 양적조사방법의 특징입니다.","","center","true"
+"2023","사회복지학개론","3. 베버리지 보고서에서 제시한 사회보험 운영의 기본 원칙이 아닌 것은?","1. 급여 충분성의 원칙","2. 열등처우의 원칙","3. 정액 급여의 원칙","4. 행정책임 통합의 원칙","","2","열등처우의 원칙은 1834년 개정 빈민법(신빈민법)의 원칙입니다. 베버리지 보고서의 6대 원칙은 정액급여, 정액기여, 행정책임의 통합, 급여의 충분성, 포괄성, 피보험자 분류입니다.","","center","true"
+"2023","사회복지학개론","4. 사회복지의 잔여적 관점과 제도적 관점에 대한 설명으로 옳은 것은?","1. 제도적 관점에서는 자산조사를 통해 선별적 급여를 제공한다.","2. 잔여적 관점에서 사회복지급여 제공은 국가의 시혜가 아니라 수급자의 권리이다.","3. 제도적 관점에서는 사회복지를 일시적이고 보충적인 기능을 수행하는 제도로 인식한다.","4. 잔여적 관점에서는 가족이나 시장경제가 개인의 욕구를 적절하게 충족시키지 못하는 경우에만 사회복지서비스를 제공한다.","","4","잔여적 관점은 가족이나 시장이 제 기능을 하지 못할 때 국가가 보충적으로 개입해야 한다고 봅니다. 1번은 잔여적 관점, 2번은 제도적 관점, 3번은 잔여적 관점에 대한 설명입니다.","","center","true"
+"2023","사회복지학개론","5. 길버트법(Gilbert Act)에 대한 설명으로 옳은 것은?","1. 비인도적 빈민처우를 강화하였다.","2. 노동능력이 있는 빈민에 대해 원외구제를 허용하였다.","3. 요보호빈곤아동에게 강제적으로 도제수습을 받도록 하였다.","4. 빈민 원인 조사를 위해 우애방문원(friendly visitors)의 역할을 강조하였다.","","2","길버트법(1782)은 작업장 내에서의 비참한 생활을 개선하기 위해 노동 능력이 있는 빈민에 대한 원외구제를 허용하였습니다.","","center","true"
+"2023","사회복지학개론","6. 「노인복지법」상 노인복지시설에 대한 설명으로 옳지 않은 것은?","1. 노인여가복지시설은 방문요양, 주ㆍ야간보호서비스 등을 제공한다.","2. 노인의료복지시설에는 노인요양시설, 노인요양공동생활가정이 있다.","3. 노인주거복지시설에는 양로시설, 노인공동생활가정, 노인복지주택이 있다.","4. 지역노인보호전문기관은 노인학대 예방을 위하여 일반인을 대상으로 한 노인학대 예방교육을 담당한다.","","1","방문요양, 주·야간보호서비스 등은 재가노인복지시설에서 제공하는 서비스입니다. 노인여가복지시설에는 노인복지관, 경로당, 노인교실이 있습니다.","","center","true"
+"2023","사회복지학개론","7. 사례관리의 초기과정(intake) 이후 단계를 순서대로 바르게 나열한 것은?","1. 계획 — 사정 — 평가 — 실행 — 점검","2. 계획 — 사정 — 실행 — 평가 — 점검","3. 사정 — 계획 — 실행 — 점검 — 평가","4. 사정 — 계획 — 평가 — 실행 — 점검","","3","사례관리의 일반적인 절차는 '접수(Intake) → 사정(Assessment) → 계획(Planning) → 실행(Implementation/Intervention) → 점검(Monitoring) → 평가(Evaluation) → 종결(Termination)' 순서입니다.","","center","true"
+"2023","사회복지학개론","8. 사회서비스 바우처에 대한 설명으로 옳지 않은 것은?","1. 공급자 재정지원방식이다.","2. 공급자 간 경쟁을 촉진시켜 서비스 향상을 도모한다.","3. 특정한 재화나 서비스의 수요자에게 일정 금액의 구매권을 제공한다.","4. 일정한 용도 내에서는 현금 급여 방식처럼 소비자의 선택이 가능하다.","","1","바우처 제도는 수요자에게 이용권을 지급하여 서비스를 선택하게 하는 수요자 지원 방식입니다. 공급자에게 재정을 직접 지원하는 방식과는 구별됩니다.","","center","true"
+"2023","사회복지학개론","9. 사회복지실천기술에 대한 설명으로 옳지 않은 것은?","1. 요약: 사회복지사가 클라이언트의 모호한 말을 더 이해하기 쉬운 말과 생각으로 정리하는 것","2. 재명명: 클라이언트가 부여하는 의미를 수정해 줌으로써 클라이언트의 시각을 긍정적인 방향으로 변화시키는 것","3. 재보증: 클라이언트의 능력에 대해 사회복지사가 신뢰를 표현함으로써 클라이언트의 불안과 불확실성을 제거하고 위안을 주는 것","4. 해석: 클라이언트가 제공한 정보를 바탕으로 사회복지사가 다양한 이론에 근거하여 클라이언트에게 자신의 상황을 보는 대안적 준거틀을 제공하는 것","","1","1번의 설명(클라이언트의 모호한 말을 더 이해하기 쉬운 말로 정리하는 것)은 '명료화(Clarification)'에 해당합니다. '요약'은 클라이언트가 진술한 내용의 핵심을 정리하여 전체적인 흐름을 파악하는 기술입니다.","","center","true"
+"2023","사회복지학개론","10. 우리나라 사회복지사 윤리강령에 대한 설명으로 옳은 것은?","1. 보건복지부장관이 고시한다.","2. 법률에 준하는 강제적 효력이 있다.","3. 사회복지 서비스에 대한 이용료 부과를 금지한다.","4. 슈퍼바이저는 전문적 기준에 따라 슈퍼비전을 수행하며, 공정하게 평가하고 평가 결과를 슈퍼바이지와 공유한다.","","4","윤리강령은 한국사회복지사협회에서 제정하며 법적 강제력은 없습니다. 또한 서비스 이용료 부과를 금지하지 않습니다. 4번 항목은 윤리강령의 내용과 일치합니다.","","center","true"
+"2023","사회복지학개론","11. 인권에 대한 설명으로 옳은 것만을 모두 고르면?
+ㄱ. 인권은 인간의 욕구를 충족시키기 위한 법적 권리이다.
+ㄴ. 인권은 국제법과 국제규약 및 각국의 국내법에 의해 규정
+된다.
+ㄷ. 인권은 문화를 초월하여 각국마다 동일하게 규정된다.
+ㄹ. 사회복지실천에서는 인권과 윤리를 명확하게 구분한다.","1. ㄱ, ㄴ","2. ㄱ, ㄷ","3. ㄴ, ㄹ","4. ㄷ, ㄹ","","1","ㄷ: 인권의 보편성은 인정되나, 구체적인 규정이나 적용은 각국의 문화와 상황에 따라 다를 수 있습니다.
+ㄹ: 사회복지실천에서 인권과 윤리는 상호 밀접하게 연관되어 있어 명확히 구분하기 어렵습니다.
+따라서 옳은 것은 ㄱ, ㄴ입니다.","","center","true"
+"2023","사회복지학개론","12. 「장애인활동 지원에 관한 법률」상 활동지원급여에 대한 설명으로 옳은 것만을 모두 고르면?
+ㄱ. 활동지원급여의 종류에는 활동보조, 방문목욕, 주간보호, 
+편의시설 설치가 있다.
+ㄴ. 활동지원급여 중 활동보조는 신체활동과 가사활동 및 
+이동보조 등을 포함한다.
+ㄷ. 활동지원급여는 장애인이 지역사회 안에서 사회구성원으로 
+살아갈 수 있도록 제공하여야 한다.","1. ㄱ","2. ㄴ","3. ㄱ, ㄷ","4. ㄴ, ㄷ","","4","ㄱ: 활동지원급여의 종류에는 활동보조, 방문목욕, 방문간호 등이 있으며, '주간보호'와 '편의시설 설치'는 포함되지 않습니다. 따라서 옳은 설명은 ㄴ, ㄷ입니다.","","center","true"
+"2023","사회복지학개론","13. 의료급여제도에 대한 설명으로 옳은 것만을 모두 고르면?
+ㄱ.입양특례법에 따라 국내에 입양된 18세 미만의 아동은 
+수급권자에 해당한다.
+ㄴ. 소득 재분배기능과 위험 분산효과를 통하여 사회통합을 
+도모하는 사회보험제도이다.
+ㄷ. 법률에 의한 강제 가입과 보험료 납부의 강제성을 가지고 
+있다.","1. ㄱ","2. ㄱ, ㄴ","3. ㄴ, ㄷ","4. ㄱ, ㄴ, ㄷ","","1","ㄴ: 의료급여는 공공부조제도이며, 사회보험제도가 아닙니다.
+ㄷ: 공공부조이므로 보험료를 납부하지 않으며 조세로 운영됩니다.
+따라서 옳은 것은 ㄱ뿐입니다.","","center","true"
+"2023","사회복지학개론","14. 「사회보장기본법」상 비용부담에 관한 규정으로 (가) ～ (다)에 들어갈 내용을 순서대로 바르게 연결한 것은?
+○ 사회보험에 드는 비용은 사용자, 피용자(被傭者) 및 자영업자가 
+부담하는 것을 원칙으로 하되, 관계 법령에서 정하는 바에 
+따라 (가)가 그 비용의 일부를 부담할 수 있다.
+○ 공공부조 및 관계 법령에서 정하는 일정 소득 수준 이하의 
+국민에 대한 사회서비스에 드는 비용의 전부 또는 일부는 
+(나)가 부담한다.
+○ 부담 능력이 있는 국민에 대한 사회서비스에 드는 비용은 
+그 수익자가 부담함을 원칙으로 하되, 관계 법령에서 정하는 
+바에 따라 (다)가 그 비용의 일부를 부담할 수 있다.","1. 국가 / 국가와 지방자치단체 / 국가","2. 국가 / 국가와 지방자치단체 / 국가와 지방자치단체","3. 국가와 지방자치단체 / 국가 / 국가","4. 국가와 지방자치단체 / 국가 / 국가와 지방자치단체","","2","사회보장기본법 제28조에 따르면:
+1. 사회보험 비용: 원칙적으로 사용자·피용자·자영업자 부담, 국가가 일부 부담 가능 -> (가) 국가
+2. 공공부조 및 일정 소득 이하 국민의 사회서비스 비용: 국가와 지방자치단체가 부담 -> (나) 국가와 지방자치단체
+3. 부담 능력 있는 국민의 사회서비스 비용: 수익자 부담 원칙, 국가와 지방자치단체가 일부 부담 가능 -> (다) 국가와 지방자치단체","data:image/png;base64,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","left","true"
+"2023","사회복지학개론","15. 강점관점에 대한 설명으로 옳지 않은 것은?","1. 모든 개인과 집단, 가족 및 지역사회는 강점을 지니고 있다.","2. 클라이언트의 주변 환경에는 활용가능한 자원이 매우 부족하다.","3. 사회복지사와 클라이언트가 협력할 때 클라이언트에게 가장 좋은 서비스를 제공할 수 있다.","4. 외상과 학대, 질병 및 고통은 클라이언트의 인생에 상처가 되기도 하지만 도전과 기회의 원천이 되기도 한다.","","2","강점관점은 클라이언트의 환경 속에 활용 가능한 자원이 풍부하다고 봅니다. '활용가능한 자원이 매우 부족하다'는 시각은 결핍 관점이나 병리적 관점에 해당합니다.","","center","true"
+"2023","사회복지학개론","16. 소득보장프로그램에 대한 설명으로 옳은 것은?","1. 아동수당은 기여－자산조사 프로그램에 해당한다.","2. 기초연금은 기여－비자산조사 프로그램에 해당한다.","3. 공공부조제도는 사회보험에 비해 재분배기능이 높다.","4. 장애인연금제도는 비기여방식으로 운영되는 사회보험이다.","","3","공공부조제도는 저소득층을 대상으로 조세로 급여를 제공하므로, 사회보험에 비해 수직적 소득재분배 효과가 높습니다. 아동수당(보편적), 기초연금(무기여 자산조사), 장애인연금(무기여 자산조사 공공부조 성격) 등에 대한 설명 중 3번이 가장 적절합니다.","","center","true"
+"2023","사회복지학개론","17. 「노인장기요양보험법」의 내용으로 옳지 않은 것은?","1. 장기요양보험 가입자는 「국민건강보험법」에 따른 가입자로 한다.","2. 장기요양급여에는 재가급여와 시설급여 및 의료급여가 있다.","3. 장기요양보험사업은 보건복지부장관이 관장하며, 장기요양보험사업의 보험자는 국민건강보험공단이다.","4. 장기요양보험료, 국가 및 지방자치단체의 부담금 등을 재원으로 하여 노인등에게 장기요양급여를 제공한다.","","2","노인장기요양보험법상 장기요양급여의 종류는 '재가급여', '시설급여', '특별현금급여'입니다. '의료급여'는 의료급여법에 따른 별도의 공공부조 제도입니다.","","center","true"
+"2023","사회복지학개론","18. 사례관리에 대한 설명으로 옳지 않은 것은?","1. 사정의 영역에는 욕구, 자원, 장애물 등이 포함된다.","2. 예기치 않은 과정에서 다양한 이유로 종결될 수 있다.","3. 사례관리 적격 여부를 확인하여 기관의 클라이언트로 확정하는 과정은 사정단계이다.","4. 클라이언트에 대한 상담, 치료 등의 직접적 활동뿐만 아니라 가족과 지역사회를 대상으로 하는 간접적 활동도 제공한다.","","3","사례관리 적격 여부를 확인하여 클라이언트로 확정하는 과정은 '접수(Intake)' 단계에서 이루어집니다. 사정 단계는 이미 클라이언트로 선정된 후 문제를 분석하는 단계입니다.","","center","true"
+"2023","사회복지학개론","19. 「정신건강증진 및 정신질환자 복지서비스 지원에 관한 법률」상 정신건강사회복지에 대한 설명으로 옳지 않은 것은?","1. 정신요양시설은 정신질환자의 사회적응을 위한 각종 훈련과 생활지도를 하는 시설이다.","2. 국가계획 또는 지역계획에는 영ㆍ유아, 아동, 청소년, 중ㆍ장년, 노인 등 생애주기 및 성별에 따른 정신건강증진사업이 포함되어야 한다.","3. 정신건강증진시설이란 정신의료기관, 정신요양시설 및 정신재활시설을 말한다.","4. 보건복지부장관 또는 지방자치단체의 장은 알코올, 마약, 도박, 인터넷 등의 중독 문제와 관련한 종합적인 지원사업을 수행하기 위하여 중독관리통합지원센터를 설치ㆍ운영할 수 있다.","","1","정신질환자의 사회적응을 위한 각종 훈련과 생활지도를 하는 시설은 '정신재활시설'입니다. '정신요양시설'은 요양 서비스를 제공하는 시설입니다.","","center","true"
+"2023","사회복지학개론","20. 「청소년복지 지원법」상 청소년복지시설에 대한 설명으로 옳은 것만을 모두 고르면?
+ㄱ. 청소년쉼터: 가정 밖 청소년에 대하여 가정ㆍ학교ㆍ사회로 
+복귀하여 생활할 수 있도록 일정 기간 보호하면서 상담ㆍ
+주거ㆍ학업ㆍ자립 등을 지원하는 시설
+ㄴ. 청소년자립지원관: 일정 기간 청소년쉼터 또는 청소년
+회복지원시설의 지원을 받았는데도 가정ㆍ학교ㆍ사회로 
+복귀하여 생활할 수 없는 청소년에게 자립하여 생활할 수 
+있는 능력과 여건을 갖추도록 지원하는 시설
+ㄷ. 청소년치료재활센터: 학습ㆍ정서ㆍ행동상의 장애를 가진 
+청소년을 대상으로 정상적인 성장과 생활을 할 수 있도록 
+해당 청소년에게 적합한 치료ㆍ교육 및 재활을 종합적으로 
+지원하는 거주형 시설","1. ㄱ, ㄴ","2. ㄱ, ㄷ","3. ㄴ, ㄷ","4. ㄱ, ㄴ, ㄷ","","4","제시된 ㄱ, ㄴ, ㄷ은 모두 「청소년복지 지원법」상 해당 시설들의 정의와 정확히 일치합니다.","","center","true"
